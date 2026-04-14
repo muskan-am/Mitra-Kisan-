@@ -8,6 +8,13 @@ It bridges the gap between traditional farming and smart digital solutions by pr
 🎥 **Live Demo:**
 -------
 
+
+## 🖼️ Application Preview
+
+<p align="center">
+  <img src="./home.png" width="800"/>
+</p>
+
 ## 🌟 Key Benefits
 
 * 🤖 **AI-Powered Insights** – Smart crop and price predictions
